@@ -47,7 +47,7 @@ Power BI – For data visualization and interactive dashboard creation.
 
 Data Sources – Customer information, transaction records, and churn datasets.
 
-##📈 Insights Gained
+## 📈 Insights Gained
 Higher churn among credit card holders compared to non-holders.
 
 Certain countries exhibit significantly higher churn rates.
